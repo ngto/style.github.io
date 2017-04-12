@@ -12,6 +12,12 @@
 .impowerBox .status {
     text-align:center;
 }
+.impowerBox .info{
+    width:200px;
+}
+.impowerBox .qrcode{
+    margin:0;
+}
 iframe{
     width:100% !important;
     height:100% !important;
