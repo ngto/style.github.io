@@ -14,6 +14,8 @@
 }
 .impowerBox .info{
     width:130px;
+    margin-left: 15px;
+    margin-right: -7px;
 }
 .impowerBox .qrcode{
     margin:0;
@@ -24,6 +26,7 @@ iframe{
 }
 .impowerBox .status{
     padding:7px 0;
+    margin-left: 20px;
 }
 .loginPanel {
     padding:10px 0px
