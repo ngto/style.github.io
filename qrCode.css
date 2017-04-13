@@ -9,7 +9,7 @@
     width: 130px;
     height:130px;
 }
-.impowerBox .status {
+.impowerBox .status.status_browser{
     text-align:left;
 }
 .impowerBox .info{
