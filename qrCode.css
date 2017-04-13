@@ -32,4 +32,5 @@ iframe{
 }
 .impowerBox .status p{
   display: inline;
+  font-weight: 600;
 }
