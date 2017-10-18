@@ -6,15 +6,14 @@
     vertical-align:middle;
 }
 .impowerBox .qrcode {
-    width: 140px;
-    height:140px;
+    width: 200px;
+    height:200px;
 }
 .impowerBox .status.status_browser{
     text-align:left;
 }
 .impowerBox .info{
-    width:135px;
-
+    display:none;
 }
 .impowerBox .qrcode{
     margin:0;
@@ -34,7 +33,4 @@
 .impowerBox .status p{
   display: inline;
   font-weight: 600;
-}
- .new-login .tab-content {
-    overflow: hidden;
 }
