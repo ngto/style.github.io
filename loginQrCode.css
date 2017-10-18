@@ -1,5 +1,5 @@
-.impowerBox .title,.status_icon,.info{
-    display:none;
+.impowerBox .title,.status_icon,.impowerBox .info{
+    display:none  !important;
 }
 .impowerBox .info,.impowerBox .qrcode,.wrp_code {
     display: inline-block;
