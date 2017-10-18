@@ -1,6 +1,9 @@
 .impowerBox .title,.status_icon,.impowerBox .info{
     display:none  !important;
 }
+body{
+    margin:0;
+}
 .impowerBox .qrcode {
     width: 240px;
     height:240px;
