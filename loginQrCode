@@ -1,0 +1,36 @@
+.impowerBox .title,.status_icon {
+    display: none;
+}
+.impowerBox .info,.impowerBox .qrcode,.wrp_code {
+    display: inline-block;
+    vertical-align:middle;
+}
+.impowerBox .qrcode {
+    width: 130px;
+    height:130px;
+}
+.impowerBox .status.status_browser{
+    text-align:left;
+}
+.impowerBox .info{
+    width:150px;
+
+}
+.impowerBox .qrcode{
+    margin:0;
+}
+iframe{
+    width:100% !important;
+    height:100% !important;
+}
+.impowerBox .status{
+    padding:7px 0;
+    margin-left: 20px;
+}
+.loginPanel {
+    padding:10px 0px
+}
+.impowerBox .status p{
+  display: inline;
+  font-weight: 600;
+}
