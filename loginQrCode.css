@@ -35,3 +35,6 @@
   display: inline;
   font-weight: 600;
 }
+ .new-login .tab-content {
+    overflow: hidden;
+}
