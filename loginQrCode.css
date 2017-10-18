@@ -1,4 +1,5 @@
-.impowerBox .title,.status_icon {
+.impowerBox .title,.status_icon,.info{
+    display:none;
 }
 .impowerBox .info,.impowerBox .qrcode,.wrp_code {
     display: inline-block;
@@ -11,17 +12,6 @@
 .impowerBox .status.status_browser{
     text-align:left;
 }
-.impowerBox .info{
-    display:none;
-}
 .impowerBox .qrcode{
     margin:0;
-}
-.impowerBox .status{
-    padding:7px 0;
-    margin-left: 20px;
-}
-.impowerBox .status p{
-  display: inline;
-  font-weight: 600;
 }
