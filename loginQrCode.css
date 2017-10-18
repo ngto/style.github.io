@@ -13,22 +13,23 @@
     text-align:left;
 }
 .impowerBox .info{
-    width:150px;
+    width:135px;
 
 }
 .impowerBox .qrcode{
     margin:0;
 }
 iframe{
-    width:100% !important;
-    height:100% !important;
+    width:300px !important;
+    height:200px !important;
 }
 .impowerBox .status{
     padding:7px 0;
     margin-left: 20px;
 }
 .loginPanel {
-    padding:10px 0px
+    padding:10px 0px;
+    margin-top:20px;
 }
 .impowerBox .status p{
   display: inline;
