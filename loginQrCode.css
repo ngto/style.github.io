@@ -19,7 +19,7 @@
 .impowerBox .qrcode{
     margin:0;
 }
-iframe{
+.login_container>iframe{
     width:300px !important;
     height:200px !important;
 }
