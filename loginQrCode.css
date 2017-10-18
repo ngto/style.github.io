@@ -18,17 +18,12 @@
 .impowerBox .qrcode{
     margin:0;
 }
-.login_container>iframe{
-    width:300px !important;
-    height:200px !important;
-}
 .impowerBox .status{
     padding:7px 0;
     margin-left: 20px;
 }
 .loginPanel {
     padding:10px 0px;
-    margin-top:20px;
 }
 .impowerBox .status p{
   display: inline;
